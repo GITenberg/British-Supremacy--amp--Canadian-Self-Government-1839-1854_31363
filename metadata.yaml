@@ -1,0 +1,28 @@
+_repo: British-Supremacy--amp--Canadian-Self-Government-1839-1854_31363
+_version: 0.1.0
+alternative_title: British Supremacy and Canadian Self-Government, 1839-1854
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Morison, J. L. (John Lyle)
+    alias: Morison, John Lyle
+    birthdate: 1875
+    deathdate: 1952
+    gutenberg_agent_id: '35179'
+    url: http://www.gutenberg.org/2009/agents/35179
+description: ''
+gutenberg_issued: '2010-02-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31363'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canada -- Politics and government -- 1841-1867'
+- !lcc 'JL'
+title: British Supremacy & Canadian Self-Government, 1839-1854
+url: http://www.gutenberg.org/ebooks/31363
